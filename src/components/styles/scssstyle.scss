@@ -1,0 +1,11 @@
+$primarycolor : black;
+$text : center;
+
+
+
+@mixin test{
+    background:$primarycolor;
+    text-align: center;
+}
+
+
